@@ -1,4 +1,4 @@
-This workflow deals with metatranscriptomic data and generate various fungal community information.
+This workflow deals with metatranscriptomic data and generate various fungal community information based on rRNA that were retained in the data.
 Plese note this workflow starts with count table (specifically with samtool idxstats)
 For rank abundance curve and taxonomy barplot, the otutable were generated using Qiime (with minor text format editing).)
 
